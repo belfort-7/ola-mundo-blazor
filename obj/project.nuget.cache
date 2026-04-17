@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Eef/5qqUzU=",
+  "success": true,
+  "projectFilePath": "/home/zero/Documents/Faculdade/3Semestre/iuhc/dev/dotnet/labs/OlaMudoBlazor/OlaMudoBlazor.csproj",
+  "expectedPackageFiles": [
+    "/home/zero/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.4/microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
